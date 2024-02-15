@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElmofiedBoby
 - 🧔 My name is Nithin Joseph.
-- 👀 I’m interested in gaming, anime, and of course all things programming.
-- 🌱 I’m currently learning Java, Python, and machine learning libraries such as Tensorflow and Pytorch.
+- 👀 I’m interested in anything software!
+- 🌱 I’m currently diving into machine learning.
 - 📫 How to reach me: njoseph@terpmail.umd.edu
 
 <!---
